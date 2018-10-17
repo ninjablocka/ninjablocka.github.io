@@ -1,0 +1,13 @@
+{
+"companyName": "Isaac",
+"productName": "Tanks",
+"dataUrl": "FUCKING TANK.data.unityweb",
+"asmCodeUrl": "FUCKING TANK.asm.code.unityweb",
+"asmMemoryUrl": "FUCKING TANK.asm.memory.unityweb",
+"asmFrameworkUrl": "FUCKING TANK.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
